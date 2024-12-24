@@ -1,2 +1,2 @@
 # GPTtokenizer
-GPT Tokenizer From Scratch
+Building the GPT Tokenizer from Scratch
